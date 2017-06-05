@@ -1,0 +1,160 @@
+.project-list div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.project-list h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.wedding {
+  display: block;
+  margin: 20px auto;
+  background-color: #c3d2c6;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.wedding-image {
+  width: 270px;
+  position: absolute;
+  right: 90px;
+  bottom: 0px;
+}
+
+.wedding-text {
+  width: 380px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.credo {
+  display: block;
+  margin: 20px auto;
+  background-color: #dfebee;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.credo-image {
+  width: 325px;
+  position: absolute;
+  left: 80px;
+  bottom: 45px;
+}
+
+.credo-text {
+  width: 380px;
+  position: absolute;
+  right: 90px;
+  top: 110px;
+  color: grey;
+}
+
+.elf {
+  display: block;
+  margin: 20px auto;
+  background-color: #f1dbe4;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.elf-image {
+  width: 270px;
+  position: absolute;
+  right: 90px;
+  bottom: 0px;
+}
+
+.elf-text {
+  width: 380px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.tama {
+  display: block;
+  margin: 20px auto;
+  background-color: #f5e4d9;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.tama-image {
+  width: 270px;
+  position: absolute;
+  left: 90px;
+  bottom: 0px;
+}
+
+.tama-text {
+  width: 380px;
+  position: absolute;
+  right: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.clayton-blog {
+  display: block;
+  margin: 20px auto;
+  background-color: #c4d3df;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.clayton-blog-image1 {
+  width: 250px;
+  position: absolute;
+  right: 200px;
+  bottom: 0px;
+}
+
+.clayton-blog-image2 {
+  width: 250px;
+  position: absolute;
+  right: 90px;
+  bottom: 0px;
+}
+
+.clayton-blog-text {
+  width: 300px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.clayton-mobile {
+  display: block;
+  margin: 20px auto;
+  background-color: #ecd2d0;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.clayton-mobile-image {
+  width: 210px;
+  position: absolute;
+  left: 90px;
+  bottom: 0px;
+}
+
+.clayton-mobile-text {
+  width: 380px;
+  position: absolute;
+  right: 90px;
+  top: 110px;
+  color: gray;
+}

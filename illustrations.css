@@ -1,0 +1,22 @@
+.title  {
+ text-align: center;
+ margin-top: 100px;
+}
+
+.subtitle{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.images {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.images img{
+  width: 347px;
+}
+
+.etsy-link {
+  color: #29A3CC;
+}

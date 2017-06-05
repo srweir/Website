@@ -1,0 +1,152 @@
+.project-list div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.project-list h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.insurance {
+  display: block;
+  margin: 20px auto;
+  background-color: #e8f7fd;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.insurance-image {
+  width: 270px;
+  position: absolute;
+  right: 90px;
+  bottom: 0px;
+}
+
+.insurance-title {
+  width: 380px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.elf {
+  display: block;
+  margin: 20px auto;
+  background-color: #edf2ef;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.elf-image {
+  width: 270px;
+  position: absolute;
+  left: 100px;
+  bottom: 0px;
+}
+
+.elf-title {
+  width: 380px;
+  position: absolute;
+  right: 90px;
+  top: 110px;
+  color: grey;
+}
+
+.mobilemodular {
+  display: block;
+  margin: 20px auto;
+  background-color: #d9e3f3;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.mobilemodular-image {
+  width: 300px;
+  position: absolute;
+  right: 90px;
+  bottom: 0px;
+}
+
+.mobilemodular-title {
+  width: 380px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.clayton-lp {
+  display: block;
+  margin: 20px auto;
+  background-color: #f0e8e2;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.clayton-lp-image {
+  width: 300px;
+  position: absolute;
+  left: 90px;
+  bottom: 0px;
+}
+
+.clayton-lp-title {
+  width: 380px;
+  position: absolute;
+  right: 80px;
+  top: 110px;
+  color: gray;
+}
+
+.clayton-blog {
+  display: block;
+  margin: 20px auto;
+  background-color: #d8ebe9;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.clayton-blog-image {
+  width: 325px;
+  position: absolute;
+  right: 60px;
+  bottom: 0px;
+}
+
+.clayton-blog-title {
+  width: 380px;
+  position: absolute;
+  left: 90px;
+  top: 110px;
+  color: gray;
+}
+
+.graphics {
+  display: block;
+  margin: 20px auto;
+  background-color: #eeeeee;
+  width: 900px;
+  height: 300px;
+  position: relative;
+}
+
+.graphics-image {
+  width: 300px;
+  position: absolute;
+  left: 100px;
+  bottom: 0px;
+}
+
+.graphics-title {
+  width: 300px;
+  position: absolute;
+  right: 90px;
+  top: 110px;
+  color: gray;
+}

@@ -1,5 +1,310 @@
-h1{
-	font-family: Helvetica;
-	font-size: 20px;
-	color: blue;
+/* Common */
+
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+  background-color: #fff; 
+  opacity: 0.8;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: gray;
+  background-color: #fff;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  margin: 20px auto;
+  max-width: 900px;
+}
+
+.logo {
+  float: left;
+}
+
+.logo img {
+  width: 40px;
+  margin-top: -10px;
+}
+
+.navigation {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.navigation a {
+  color: gray; 
+}
+
+.navigation a:hover {
+  color: #3586ae;
+} 
+
+.navigation li {
+  float: left;
+  margin: 0px;
+  margin-left: 20px;
+}
+
+ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.page {
+  width: 900px;
+  display: block;
+  margin: 0 auto;
+}
+
+.body {
+  margin: 20px;
+  line-height: 125%;
+  font-family: 'Droid Serif', serif;
+}
+
+ul.indent{
+  list-style-type: circle;
+}
+
+li{
+  margin: 0px 50px;
+  line-height: 125%;
+}
+/* Titles */
+
+.title {
+  padding: 20px;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  color: gray;
+  font-family: 'Lato', sans-serif;
+}
+
+.title h1, h2, h3{
+   margin: 0 auto;
+   text-align: center;
+ }
+
+h1 {
+  font-size: 30px;
+  padding: 10px;
+ }
+
+h2{
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+/* Common Footer */
+
+footer {
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+}
+
+.line {
+  display: block;
+  margin: 20px auto;
+}
+
+.social-links{
+  margin-bottom: 5px;
+}
+
+.social-icon{
+  width: 20px;
+  margin: 5px;
+}
+
+.copyright{
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+/* Homepage */
+
+.text {
+  margin: 0px auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: grey;
+  font-family: 'Lato', sans-serif;
+}
+
+.text h3 {
+  font-size: 50px;
+}
+
+.main {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 500px;
+  position: relative;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+}
+
+
+/* Design Pages */
+
+.label-left{
+  width: 350px;
+  float:left;
+  margin: 50px;
+}
+
+.label-right{
+  width: 350px;
+  float:right;
+  margin: 50px;
+}
+
+.text-left{
+  text-align: left;
+  margin-bottom: 20px;
+  line-height: 125%;
+  font-family: 'Droid Serif', serif;
+}
+
+.text-right{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Design Pages */
+
+/* Credo Page */
+
+.credo-image {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+}
+
+.credo-body-image {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+}
+
+
+/* elf Page */
+
+.elf-image {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+}
+
+.elf-image1 {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
+
+.elf-image2 {
+  display: block;
+  margin: 0 auto;
+  width: 550px;
+}
+
+
+/* Clayton Blog */
+
+.claytonblog-image3 {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+}
+
+.claytonblog-image4 {
+  display: block;
+  margin: 0 auto;
+}
+
+.claytonblog-image5 {
+  width: 450px;
+  margin: 0 auto;
+  display: block;
+}
+
+.claytonblog-image6 {
+  width: 800px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Clayton Mobile */
+
+.claytonmobile-image2 {
+  display: block;
+  margin: 0 auto;
+  width: 550px;
+}
+
+.claytonmobile-image {
+  display:block;
+  margin: 0 auto;
+  width: 250px;
+}
+
+
+/* Content Pages */
+
+.links {
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 200px;
+}
+
+.links a {
+  text-align: center;
+  color: #29A3CC;
+}
+
+.claytonlp-images {
+  text-align: center;
+  width: 650px;
+  margin: 0 auto;
+}
+
+.claytonlp-images img {
+  width: 600px;
+  margin-bottom: 10px;
+}
+
+.graphic-image img {
+  width: 300px;
+  margin: 10px 20px 10px 20px;
+}
+
+.graphic-image {
+  max-width: 700px;
+  margin: 0 auto;
 }
