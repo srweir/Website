@@ -28,7 +28,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .elf {
@@ -52,7 +52,7 @@
   position: absolute;
   right: 90px;
   top: 110px;
-  color: grey;
+  color: black;
 }
 
 .mobilemodular {
@@ -76,7 +76,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .clayton-lp {
@@ -100,7 +100,7 @@
   position: absolute;
   right: 80px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .clayton-blog {
@@ -124,7 +124,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .graphics {
@@ -148,5 +148,5 @@
   position: absolute;
   right: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }

@@ -29,7 +29,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .credo {
@@ -53,7 +53,7 @@
   position: absolute;
   right: 90px;
   top: 110px;
-  color: grey;
+  color: black;
 }
 
 .elf {
@@ -77,7 +77,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .tama {
@@ -101,7 +101,7 @@
   position: absolute;
   right: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .clayton-blog {
@@ -132,7 +132,7 @@
   position: absolute;
   left: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
 
 .clayton-mobile {
@@ -156,5 +156,5 @@
   position: absolute;
   right: 90px;
   top: 110px;
-  color: gray;
+  color: black;
 }
