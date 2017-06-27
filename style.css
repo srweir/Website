@@ -165,8 +165,57 @@ footer {
   text-align: center;
 }
 
-.image {
-  width: 100%;
+.quote {
+  font-style: italic;
+  display: block;
+  max-width: 700px;
+  margin: 0px auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.quote-by {
+  font-style: italic;
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.about {
+  max-width: 900px;
+  margin: 50px auto;
+}
+
+.title {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.picture img{
+  float: left;
+  width: 370px;
+  margin-top: 40px;
+  }
+
+.bio {
+  display: block;
+  float:right;
+  text-align: left;
+  line-height: 1.25;
+  width: 500px;
+  font-family: 'Droid Serif', serif;
+}
+
+.email-link{
+  color: #29A3CC;
+}
+
+.illustration-link{
+  color: #29A3CC;
+}
+.resume-link{
+  color: #29A3CC;
 }
 
 
