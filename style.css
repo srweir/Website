@@ -17,7 +17,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  color: gray;
+  color: black;
   background-color: #fff;
   margin: 0;
 }
@@ -48,7 +48,7 @@ a{
 }
 
 .navigation a {
-  color: gray; 
+  color: black; 
 }
 
 .navigation a:hover {
@@ -148,7 +148,7 @@ footer {
   margin-top: 100px;
   margin-bottom: 50px;
   text-align: center;
-  color: grey;
+  color: black;
   font-family: 'Lato', sans-serif;
 }
 
