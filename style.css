@@ -20,7 +20,7 @@ body {
   color: black;
   background-color: #fff;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 a{
@@ -76,7 +76,7 @@ ul {
 
 .body {
   margin: 20px;
-  line-height: 125%;
+  line-height: 135%;
   font-family: 'Droid Serif', serif;
 }
 
