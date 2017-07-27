@@ -98,9 +98,13 @@ li{
   font-family: 'Lato', sans-serif;
 }
 
-.title h1, h2, h3{
+.title h1, h2, h3 {
    margin: 0 auto;
    text-align: center;
+ }
+
+ .title h3 {
+    font-style: 16px;
  }
 
 h1 {
