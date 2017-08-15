@@ -11,23 +11,23 @@
 .wedding {
   display: block;
   margin: 20px auto;
-  background-color: #c3d2c6;
+  background-color: #e5cac1;
   width: 900px;
   height: 300px;
   position: relative;
 }
 
 .wedding-image {
-  width: 300px;
+  width: 320px;
   position: absolute;
-  right: 70px;
+  right: 100px;
   bottom: 0px;
 }
 
 .wedding-text {
-  width: 380px;
+  width: 300px;
   position: absolute;
-  left: 90px;
+  left: 100px;
   top: 110px;
   color: black;
 }
@@ -42,9 +42,9 @@
 }
 
 .credo-image {
-  width: 325px;
+  width: 350px;
   position: absolute;
-  left: 80px;
+  left: 60px;
   bottom: 45px;
 }
 
@@ -147,14 +147,14 @@
 .clayton-mobile-image {
   width: 210px;
   position: absolute;
-  left: 90px;
+  left: 120px;
   bottom: 0px;
 }
 
 .clayton-mobile-text {
-  width: 380px;
+  width: 370px;
   position: absolute;
-  right: 90px;
+  right: 110px;
   top: 110px;
   color: black;
 }
