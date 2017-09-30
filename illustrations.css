@@ -9,12 +9,13 @@
 }
 
 .images {
-  max-width: 700px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
 .images img{
-  width: 347px;
+  width: 300px;
+  margin: 10px;
 }
 
 .etsy-link {
