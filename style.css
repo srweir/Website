@@ -144,6 +144,23 @@ footer {
 
 /* Homepage */
 
+.homepage-text {
+  margin: 0px auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.homepage-text-left {
+  margin: ;
+  text-align: center;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+.homepage-text-left h3 {
+  font-size: 100px;
+}
+
+<!-- old css -->
 .text {
   margin: 0px auto;
   margin-top: 100px;
@@ -212,6 +229,7 @@ footer {
   color: #29A3CC;
 }
 
+<!-- old css -->
 
 /* Design Pages */
 

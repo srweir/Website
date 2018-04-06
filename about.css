@@ -1,9 +1,31 @@
+.text {
+  margin: 0px auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+.text h3 {
+  font-size: 50px;
+}
+
+.main {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 500px;
+  position: relative;
+  margin-bottom: 250px;
+  text-align: center;
+}
+
 .quote {
   font-style: italic;
   display: block;
   max-width: 700px;
   margin: 0px auto;
-  margin-top: 100px;
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -28,7 +50,6 @@
 .picture img{
   float: left;
   width: 370px;
-  margin-top: 40px;
   }
 
 .bio {
@@ -38,15 +59,9 @@
   line-height: 1.25;
   width: 500px;
   font-family: 'Droid Serif', serif;
+  font-size: 12pt;
 }
 
-.email-link{
-  color: #29A3CC;
-}
-
-.illustration-link{
-  color: #29A3CC;
-}
-.resume-link{
+.link{
   color: #29A3CC;
 }
