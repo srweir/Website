@@ -169,15 +169,15 @@ footer {
 }
 
 .homepage-text h3 {
-  font-size: 100px;
+  font-size: 75px;
 }
 
 .homepage-text-left .homepage-text-right h3 {
-  font-size: 25px;
+  font-size: 75px;
 }
 
 .homepage-text-left .homepage-text-right p {
-  font-size: 25px;
+  font-size: 50px;
 }
 
 /* Design Pages */
@@ -323,7 +323,7 @@ footer {
 
 .text {
   margin: 0px auto;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 50px;
   text-align: center;
   color: black;
