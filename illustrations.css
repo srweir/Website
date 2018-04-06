@@ -8,16 +8,69 @@
   margin-bottom: 30px;
 }
 
+.etsy-link {
+  color: #f34945;
+}
+
 .images {
   max-width: 970px;
   margin: 0 auto;
 }
 
-.images img{
-  width: 300px;
-  margin: 10px;
+.koi-enso {
+	width: 900px;
+	margin: 0px auto;
+}
+.koi-enso img {
+	width: 900px;
+	text-align: center;
 }
 
-.etsy-link {
-  color: #f34945;
+.watercolor-helmet {
+	width: 900px;
+	margin: 0 auto;
 }
+
+.watercolor-helmet img {
+	width: 400px;
+}
+
+.ink-face {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.ink-face img {
+	width: 400px;
+}
+
+.malaysian-house {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.malaysian-house img {
+	width: 400px;
+}
+
+.japanese-women {
+	width: 900px:
+	margin 0px auto;
+}
+
+.japanese-women img {
+	width: 400px;
+}
+
+.ocean-life {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.ocean-life img {
+	width: 400px;
+}
+
+
+
+
