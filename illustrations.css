@@ -44,6 +44,15 @@
 	width: 400px;
 }
 
+.eiffel-tower {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.eiffel-tower img {
+	width: 400px;
+}
+
 .malaysian-house {
 	width: 900px;
 	margin: 0 auto;
@@ -62,6 +71,24 @@
 	width: 400px;
 }
 
+.breathe {
+	width: 900px:
+	margin 0px auto;	
+}
+
+.breathe img {
+	width: 400px;
+}
+
+.leaves {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.leaves img {
+	width: 900px;
+}
+
 .ocean-life {
 	width: 900px;
 	margin: 0px auto;
@@ -71,6 +98,32 @@
 	width: 400px;
 }
 
+.brooklyn {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.brooklyn img {
+	width: 400px;
+}
+
+.fish-comic {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.fish-comic img {
+	width: 900px;
+}
+
+.hope {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.hope img {
+	width: 400px;
+}
 
 
 
