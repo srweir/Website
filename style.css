@@ -144,9 +144,15 @@ footer {
 
 /* Homepage */
 
-.homepage-text {
+.homepage-title {
   margin: 0px auto;
   margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.homepage-text{
+  margin: 0px auto;
+  margin-top: 200px;
   margin-bottom: 50px;
 }
 
@@ -168,15 +174,15 @@ footer {
   font-family: 'Lato', sans-serif;
 }
 
+.homepage-title h3 {
+  font-size: 75px;
+}
+
 .homepage-text h3 {
   font-size: 75px;
 }
 
-.homepage-text-left .homepage-text-right h3 {
-  font-size: 75px;
-}
-
-.homepage-text-left .homepage-text-right p {
+.homepage-text p {
   font-size: 50px;
 }
 
