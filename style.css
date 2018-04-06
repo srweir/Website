@@ -149,6 +149,7 @@ footer {
   margin-top: 100px;
   margin-bottom: 50px;
 }
+
 .homepage-text-left {
   margin: ;
   text-align: center;
@@ -156,80 +157,17 @@ footer {
   font-family: 'Lato', sans-serif;
 }
 
-.homepage-text-left h3 {
+.homepage-text h3 {
   font-size: 100px;
 }
 
-<!-- old css -->
-.text {
-  margin: 0px auto;
-  margin-top: 100px;
-  margin-bottom: 50px;
-  text-align: center;
-  color: black;
-  font-family: 'Lato', sans-serif;
-}
-
-.text h3 {
+.homepage-text-left .homepage-text-right h3 {
   font-size: 50px;
 }
 
-.main {
-  margin: 0 auto;
-  background-color: #fff;
-  width: 500px;
-  position: relative;
-  margin-bottom: 250px;
-  text-align: center;
+.homepage-text-left .homepage-text-right p {
+  font-size: 25;
 }
-
-.quote {
-  font-style: italic;
-  display: block;
-  max-width: 700px;
-  margin: 0px auto;
-  margin-top: 50px;
-  text-align: center;
-}
-
-.quote-by {
-  font-style: italic;
-  display: block;
-  max-width: 700px;
-  margin: 0 auto;
-  text-align: right;
-}
-
-.about {
-  max-width: 900px;
-  margin: 50px auto;
-}
-
-.title {
-  text-align: center;
-  margin-top: 100px;
-}
-
-.picture img{
-  float: left;
-  width: 370px;
-  }
-
-.bio {
-  display: block;
-  float:right;
-  text-align: left;
-  line-height: 1.25;
-  width: 500px;
-  font-family: 'Droid Serif', serif;
-  font-size: 12pt;
-}
-
-.link{
-  color: #29A3CC;
-}
-
-<!-- old css -->
 
 /* Design Pages */
 
@@ -258,13 +196,6 @@ footer {
 
 /* Design Pages */
 
-/* Wedding Page */
-
-.wedding-lp-image {
-  display: block;
-  margin: 0 auto;
-  width: 700px;
-}
 
 /* Credo Page */
 
@@ -375,4 +306,74 @@ footer {
 .graphic-image {
   max-width: 700px;
   margin: 0 auto;
+}
+
+/* About Page */
+
+.text {
+  margin: 0px auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+.text h3 {
+  font-size: 50px;
+}
+
+.main {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 500px;
+  position: relative;
+  margin-bottom: 250px;
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+  display: block;
+  max-width: 700px;
+  margin: 0px auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.quote-by {
+  font-style: italic;
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.about {
+  max-width: 900px;
+  margin: 50px auto;
+}
+
+.title {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.picture img{
+  float: left;
+  width: 370px;
+  }
+
+.bio {
+  display: block;
+  float:right;
+  text-align: left;
+  line-height: 1.25;
+  width: 500px;
+  font-family: 'Droid Serif', serif;
+  font-size: 12pt;
+}
+
+.link{
+  color: #29A3CC;
 }
