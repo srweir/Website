@@ -21,9 +21,18 @@
 	width: 900px;
 	margin: 0px auto;
 }
+
 .koi-enso img {
 	width: 900px;
-	text-align: center;
+}
+
+.bubble-koi {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.bubble-koi img {
+	width: 400px;
 }
 
 .watercolor-helmet {
