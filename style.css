@@ -151,8 +151,19 @@ footer {
 }
 
 .homepage-text-left {
-  margin: ;
-  text-align: center;
+  width: 400px;
+  position: absolute;
+  left: 100px;
+  top: 110px;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+.homepage-text-left {
+  width: 400px;
+  position: absolute;
+  left: 600px;
+  top: 110px;
   color: black;
   font-family: 'Lato', sans-serif;
 }
@@ -162,11 +173,11 @@ footer {
 }
 
 .homepage-text-left .homepage-text-right h3 {
-  font-size: 50px;
+  font-size: 25px;
 }
 
 .homepage-text-left .homepage-text-right p {
-  font-size: 25;
+  font-size: 25px;
 }
 
 /* Design Pages */
@@ -312,7 +323,7 @@ footer {
 
 .text {
   margin: 0px auto;
-  margin-top: 200px;
+  margin-top: 100px;
   margin-bottom: 50px;
   text-align: center;
   color: black;
