@@ -116,7 +116,7 @@ h2{
 /* Common Footer */
 
 footer {
-  margin: 20px auto;
+  margin: 10px auto;
   width: 300px;
   text-align: center;
 }
@@ -145,8 +145,9 @@ footer {
 /* Homepage */
 
 .homepage-title {
+  width: 500px;
   margin: 0px auto;
-  margin-top: 100px;
+  margin-top: 75px;
   margin-bottom: 50px;
 }
 
@@ -157,13 +158,12 @@ footer {
   height: 500px;
   position: relative;
   margin-top: 50px;
-  margin-bottom: 300px;
 }
 
 .homepage-text-left {
   width: 400px;
   position: absolute;
-  text-align: right;
+  text-align: center;
   left: 200px;
   top: 25px;
   color: black;
@@ -173,27 +173,20 @@ footer {
 .homepage-text-right {
   width: 400px;
   position: absolute;
-  text-align:left;
+  text-align: center;
   right: 200px;
-  top: 225px;
+  top: 230px;
   color: black;
   font-family: 'Lato', sans-serif;
 }
 
-.homepage-title h3 {
+.homepage-title h1 {
+  font-size: 75px;
+  text-align: center;
+}
+
+.homepage-text h2 {
   font-size: 50px;
-}
-
-.homepage-text h3 {
-  font-size: 50px;
-}
-
-.homepage-text-left h3 {
-  text-align: right;
-}
-
-.homepage-text-right h3 {
-  text-align: left;
 }
 
 .homepage-text p {
