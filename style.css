@@ -146,40 +146,54 @@ footer {
 
 .homepage-title {
   margin: 0px auto;
-  margin-top: 200px;
+  margin-top: 100px;
   margin-bottom: 50px;
 }
 
 .homepage-text{
-  margin: 0px auto;
-  margin-top: 400px;
+  display: block;
+  margin: 20px auto;
+  width: 900px;
+  height: 500px;
+  position: relative;
+  margin-top: 50px;
   margin-bottom: 300px;
 }
 
 .homepage-text-left {
   width: 400px;
   position: absolute;
-  left: 100px;
-  top: 110px;
+  text-align: right;
+  left: 200px;
+  top: 25px;
   color: black;
   font-family: 'Lato', sans-serif;
 }
 
-.homepage-text-left {
+.homepage-text-right {
   width: 400px;
   position: absolute;
-  left: 600px;
-  top: 110px;
+  text-align:left;
+  right: 200px;
+  top: 225px;
   color: black;
   font-family: 'Lato', sans-serif;
 }
 
 .homepage-title h3 {
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .homepage-text h3 {
   font-size: 50px;
+}
+
+.homepage-text-left h3 {
+  text-align: right;
+}
+
+.homepage-text-right h3 {
+  text-align: left;
 }
 
 .homepage-text p {
