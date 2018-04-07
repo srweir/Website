@@ -35,12 +35,48 @@
 	width: 500px;
 }
 
+.koi-in-water {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.koi-in-water img {
+	width: 500px;
+}
+
+.ginko-leaf {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.ginko-leaf img {
+	width: 500px;
+}
+
+.ginko-leaves {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.ginko-leaves img {
+	width: 500px;
+}
+
 .watercolor-helmet {
 	width: 900px;
 	margin: 0 auto;
 }
 
 .watercolor-helmet img {
+	width: 400px;
+}
+
+.malaysian-house {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.malaysian-house img {
 	width: 400px;
 }
 
@@ -59,15 +95,6 @@
 }
 
 .eiffel-tower img {
-	width: 400px;
-}
-
-.malaysian-house {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.malaysian-house img {
 	width: 400px;
 }
 
