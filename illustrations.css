@@ -98,6 +98,24 @@
 	width: 400px;
 }
 
+.blot-1 {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.blot-1 img {
+	width: 400px;
+}
+
+.blot-2 {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.blot-2 img {
+	width: 400px;
+}
+
 .japanese-women {
 	width: 900px:
 	margin 0px auto;
@@ -125,12 +143,12 @@
 	width: 900px;
 }
 
-.ocean-life {
+.fern-leaves {
 	width: 900px;
-	margin: 0px auto;
+	margin: 0 auto;
 }
 
-.ocean-life img {
+.fern-leaves {
 	width: 400px;
 }
 
