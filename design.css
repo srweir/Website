@@ -8,30 +8,6 @@
   margin-bottom: 20px;
 }
 
-.wedding {
-  display: block;
-  margin: 20px auto;
-  background-color: #efdad3;
-  width: 900px;
-  height: 300px;
-  position: relative;
-}
-
-.wedding-image {
-  width: 320px;
-  position: absolute;
-  right: 100px;
-  bottom: 0px;
-}
-
-.wedding-text {
-  width: 300px;
-  position: absolute;
-  left: 100px;
-  top: 110px;
-  color: black;
-}
-
 .credo {
   display: block;
   margin: 20px auto;

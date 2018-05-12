@@ -17,13 +17,27 @@
   margin: 0 auto;
 }
 
-.koi-enso {
-	width: 900px;
-	margin: 0px auto;
+
+.koi-enso{
+  display: block;
+  margin: 20px auto;
+  width: 900px;
+  height: 500px;
+  position: relative;
 }
 
-.koi-enso img {
-	width: 900px;
+.koi-enso-1 img{
+  width: 500px;
+  position: absolute;
+  left: 60px;
+  bottom: 0px;
+}
+
+.koi-enso-2 img {
+  width: 500px;
+  position: absolute;
+  left: 700px;
+  bottom: 0px;
 }
 
 .bubble-koi {
