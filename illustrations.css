@@ -13,7 +13,7 @@
 }
 
 .images {
-  max-width: 970px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -58,7 +58,7 @@
 
 .koi-in-water {
   display: block;
-  margin-top: 250px;
+  margin-top: 300px;
   margin-bottom: 100px;
   width: 900px;
   height: 600px;
@@ -66,14 +66,14 @@
 }
 
 .koi-in-water img {
-	width: 600px;
+	width: 500px;
 	position: absolute;
-	left: 250px;
+	left: 300px;
 }
 
 .ginko-leaf {
   display: block;
-  margin-top: 500px;
+  margin-top: 375px;
   margin-bottom: 20px;
   width: 900px;
   height: 500px;
@@ -94,135 +94,82 @@
   bottom: 0px;
 }
 
-.ginko-leaves img {
-	width: 500px;
-}
-
-.watercolor-helmet {
-	width: 900px;
-	margin: 0 auto;
+.watercolor {
+  display: block;
+  margin-top: 300px;
+  margin-bottom: 20px;
+  width: 900px;
+  height: 500px;
+  position: relative;
 }
 
 .watercolor-helmet img {
-	width: 400px;
-}
-
-.malaysian-house {
-	width: 900px;
-	margin: 0 auto;
+  width: 500px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
 }
 
 .malaysian-house img {
-	width: 400px;
+  width: 500px;
+  position: absolute;
+  left: 600px;
+  bottom: 0px;
 }
 
-.ink-face {
-	width: 900px;
-	margin: 0 auto;
+.ink {
+  display: block;
+  margin-top: 200px;
+  margin-bottom: 20px;
+  width: 900px;
+  height: 500px;
+  position: relative;
 }
 
 .ink-face img {
-	width: 400px;
-}
-
-.eiffel-tower {
-	width: 900px;
-	margin: 0 auto;
+  width: 500px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
 }
 
 .eiffel-tower img {
-	width: 400px;
+  width: 500px;
+  position: absolute;
+  left: 600px;
+  bottom: 0px;
 }
 
-.blot-1 {
-	width: 900px;
-	margin: 0 auto;
+
+.blots {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  width: 900px;
+  height: 500px;
+  position: relative;
 }
 
 .blot-1 img {
-	width: 400px;
-}
-
-.blot-2 {
-	width: 900px;
-	margin: 0 auto;
+  width: 500px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
 }
 
 .blot-2 img {
-	width: 400px;
-}
-
-.japanese-women {
-	width: 900px:
-	margin 0px auto;
-}
-
-.japanese-women img {
-	width: 400px;
-}
-
-.breathe {
-	width: 900px:
-	margin 0px auto;	
-}
-
-.breathe img {
-	width: 400px;
+  width: 500px;
+  position: absolute;
+  left: 600px;
+  bottom: 0px;
 }
 
 .leaves {
-	width: 900px;
+	width: 1000px;
 	margin: 0 auto;
 }
 
 .leaves img {
-	width: 900px;
+	width: 1000px;
 }
-
-.fern-leaves {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.fern-leaves img {
-	width: 400px;
-}
-
-.fern-leaves {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.fern-leaves {
-	width: 400px;
-}
-
-.brooklyn {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.brooklyn img {
-	width: 400px;
-}
-
-.fish-comic {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.fish-comic img {
-	width: 900px;
-}
-
-.hope {
-	width: 900px;
-	margin: 0 auto;
-}
-
-.hope img {
-	width: 400px;
-}
-
-
 
